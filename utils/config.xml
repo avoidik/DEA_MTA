@@ -1,0 +1,3 @@
+<config>
+	<redirect pattern="^address+[a-zA-Z0-9_.+-]+@domain.org$" address="address@domain.org" />
+</config>
